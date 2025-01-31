@@ -1,4 +1,4 @@
-# Epidemiology_challenge
+# README Epidemiology_challenge
 Repository for Data Mastery challenge on covid epidemiology indicators and wastewater monitoring
 This README file explains how to run the analysis, the expected outputs, and troubleshooting steps for the provided R scripts. 
 ________________________________________
